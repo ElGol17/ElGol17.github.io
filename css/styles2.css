@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+#datospersonales {
+    float: left;
+    background-color: rgba(62, 240, 56, 0.712);
+    width: 80%;
+    padding: 19.9px;
+}
+#estudiosrealizados {
+    float: left;
+    background-color: rgba(234, 250, 86, 0.87);
+    width: 60%;
+    padding: 3px;
+}
+#habilidades {
+    float: left;
+    background-color: rgba(255, 73, 73, 0.699);
+    width: 40%;
+    padding: 32px;
+}
+#actividades {
+    float: left;
+    background-color: rgba(255, 189, 67, 0.938);
+    width: 40%;
+    padding: 15px;
+}
+#favoritos {
+    float: left;
+    background-color: rgb(100, 228, 96);
+    width: 40%;
+    padding: 15px;
+}
+#pfp {
+    float: left;
+    height: 197px;
+}
+#pic2 {
+    float: left;
+    max-width: 200px;
+    size-adjust: 1/2;
+}
+h1 {
+    background-color: rgba(0, 0, 255, 0.623);
+    text-align: center;
+    padding: 80px;
+}
+nav {
+    float: left;
+    background-color: #ccc;
+    width: 20%;
+    padding: 60px;
+    height: 284px;
+}
+footer {
+    background-color: #ccc;
+    text-align: center;
+    padding: 30px;
+}
